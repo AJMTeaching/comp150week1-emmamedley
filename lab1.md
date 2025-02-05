@@ -3,6 +3,7 @@
 ### Lab Exercise 1: Lists in Python
 
 1. Create a list called my_list with the values [1, 5, 'apple', 20.5].
+
 2. Using indexing, print the value 'apple' from my_list.
 3. Add the value 10 to the end of my_list using the append() method. Print the updated list.
 4. Remove the value 20.5 from my_list using the remove() method. Print the updated list.
